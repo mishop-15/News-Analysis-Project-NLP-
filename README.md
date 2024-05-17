@@ -3,6 +3,7 @@
 This project performs sentiment analysis, aspect analysis, and summarization of news articles using natural language processing (NLP) techniques.
 
 **Running the Project**
+
 1.Clone the repository to your local machine:
 git clone <[repository_url](https://github.com/mishop-15/News-Analysis-Project-NLP-)>
 
