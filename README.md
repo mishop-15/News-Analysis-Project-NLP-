@@ -14,12 +14,15 @@ cd news-analysis-project
 pip install -r requirements.txt
 
 4.Open the main Python file (main.py or news_analysis.py, etc.) in your preferred Python IDE or text editor.
+
 5.Modify the file to specify the input data or any other configuration options as needed.
+
 6.Run the Python file to execute the project:
 python main.py
 
 
 **Requirements**
+
 The project requires the following Python packages:
 numpy
 pandas
@@ -34,4 +37,5 @@ To install the dependencies, run the following command in your terminal or comma
 pip install -r requirements.txt
 
 **Data**
+
 The input data (news articles) should be provided in a Excel file format. Ensure that the file contains a column with the text of the articles.
